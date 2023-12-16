@@ -1,0 +1,14 @@
+
+cff-version: 1.2.0
+message: >-
+  If you use this software, please cite it using the metadata from this file.
+title:  >-
+  sisl/vehicleshapes
+abstract: Vehicle (car) shapes for use with the Tikz LaTeX package.
+authors:
+  - family-names: Brown
+    given-names: Kyle
+  - name: Stanford Intelligent Systems Laboratory
+type: software
+license: MIT
+url: https://github.com/sisl/vehicleshapes
